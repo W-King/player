@@ -15,6 +15,22 @@
 		575A66781D7EACF3006BC824 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 575A66761D7EACF3006BC824 /* LaunchScreen.storyboard */; };
 		575A66831D7EACF3006BC824 /* PPX_PlayerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 575A66821D7EACF3006BC824 /* PPX_PlayerTests.m */; };
 		575A668E1D7EACF3006BC824 /* PPX_PlayerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 575A668D1D7EACF3006BC824 /* PPX_PlayerUITests.m */; };
+		575A669E1D7EACFD006BC824 /* PPX_MovieViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 575A669D1D7EACFD006BC824 /* PPX_MovieViewController.m */; };
+		575A66A21D7ED081006BC824 /* PPX_VideoPlayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 575A66A11D7ED081006BC824 /* PPX_VideoPlayer.m */; };
+		5760A1B41D7FBA2300022F3E /* PlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5760A1B31D7FBA2300022F3E /* PlayerViewController.m */; };
+		5760A1B81D7FE87A00022F3E /* PPX_Button.m in Sources */ = {isa = PBXBuildFile; fileRef = 5760A1B71D7FE87A00022F3E /* PPX_Button.m */; };
+		5760A1C61D7FEA0300022F3E /* PPX_Back@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5760A1BA1D7FEA0300022F3E /* PPX_Back@2x.png */; };
+		5760A1C71D7FEA0300022F3E /* PPX_Back@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5760A1BB1D7FEA0300022F3E /* PPX_Back@3x.png */; };
+		5760A1C81D7FEA0300022F3E /* PPX_Pause.png in Resources */ = {isa = PBXBuildFile; fileRef = 5760A1BC1D7FEA0300022F3E /* PPX_Pause.png */; };
+		5760A1C91D7FEA0300022F3E /* PPX_Pause@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5760A1BD1D7FEA0300022F3E /* PPX_Pause@2x.png */; };
+		5760A1CA1D7FEA0300022F3E /* PPX_Play.png in Resources */ = {isa = PBXBuildFile; fileRef = 5760A1BE1D7FEA0300022F3E /* PPX_Play.png */; };
+		5760A1CB1D7FEA0300022F3E /* PPX_Play@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5760A1BF1D7FEA0300022F3E /* PPX_Play@2x.png */; };
+		5760A1CC1D7FEA0300022F3E /* PPX_Slider@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5760A1C01D7FEA0300022F3E /* PPX_Slider@2x.png */; };
+		5760A1CD1D7FEA0300022F3E /* PPX_Slider@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5760A1C11D7FEA0300022F3E /* PPX_Slider@3x.png */; };
+		5760A1CE1D7FEA0300022F3E /* PPX_ZoomIn.png in Resources */ = {isa = PBXBuildFile; fileRef = 5760A1C21D7FEA0300022F3E /* PPX_ZoomIn.png */; };
+		5760A1CF1D7FEA0300022F3E /* PPX_ZoomIn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5760A1C31D7FEA0300022F3E /* PPX_ZoomIn@2x.png */; };
+		5760A1D01D7FEA0300022F3E /* PPX_ZoomOut.png in Resources */ = {isa = PBXBuildFile; fileRef = 5760A1C41D7FEA0300022F3E /* PPX_ZoomOut.png */; };
+		5760A1D11D7FEA0300022F3E /* PPX_ZoomOut@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5760A1C51D7FEA0300022F3E /* PPX_ZoomOut@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +67,26 @@
 		575A66891D7EACF3006BC824 /* PPX_PlayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PPX_PlayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		575A668D1D7EACF3006BC824 /* PPX_PlayerUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PPX_PlayerUITests.m; sourceTree = "<group>"; };
 		575A668F1D7EACF3006BC824 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		575A669C1D7EACFD006BC824 /* PPX_MovieViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PPX_MovieViewController.h; sourceTree = "<group>"; };
+		575A669D1D7EACFD006BC824 /* PPX_MovieViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PPX_MovieViewController.m; sourceTree = "<group>"; };
+		575A66A01D7ED081006BC824 /* PPX_VideoPlayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PPX_VideoPlayer.h; sourceTree = "<group>"; };
+		575A66A11D7ED081006BC824 /* PPX_VideoPlayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PPX_VideoPlayer.m; sourceTree = "<group>"; };
+		5760A1B21D7FBA2300022F3E /* PlayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlayerViewController.h; sourceTree = "<group>"; };
+		5760A1B31D7FBA2300022F3E /* PlayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlayerViewController.m; sourceTree = "<group>"; };
+		5760A1B61D7FE87A00022F3E /* PPX_Button.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PPX_Button.h; sourceTree = "<group>"; };
+		5760A1B71D7FE87A00022F3E /* PPX_Button.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PPX_Button.m; sourceTree = "<group>"; };
+		5760A1BA1D7FEA0300022F3E /* PPX_Back@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PPX_Back@2x.png"; sourceTree = "<group>"; };
+		5760A1BB1D7FEA0300022F3E /* PPX_Back@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PPX_Back@3x.png"; sourceTree = "<group>"; };
+		5760A1BC1D7FEA0300022F3E /* PPX_Pause.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PPX_Pause.png; sourceTree = "<group>"; };
+		5760A1BD1D7FEA0300022F3E /* PPX_Pause@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PPX_Pause@2x.png"; sourceTree = "<group>"; };
+		5760A1BE1D7FEA0300022F3E /* PPX_Play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PPX_Play.png; sourceTree = "<group>"; };
+		5760A1BF1D7FEA0300022F3E /* PPX_Play@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PPX_Play@2x.png"; sourceTree = "<group>"; };
+		5760A1C01D7FEA0300022F3E /* PPX_Slider@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PPX_Slider@2x.png"; sourceTree = "<group>"; };
+		5760A1C11D7FEA0300022F3E /* PPX_Slider@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PPX_Slider@3x.png"; sourceTree = "<group>"; };
+		5760A1C21D7FEA0300022F3E /* PPX_ZoomIn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PPX_ZoomIn.png; sourceTree = "<group>"; };
+		5760A1C31D7FEA0300022F3E /* PPX_ZoomIn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PPX_ZoomIn@2x.png"; sourceTree = "<group>"; };
+		5760A1C41D7FEA0300022F3E /* PPX_ZoomOut.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PPX_ZoomOut.png; sourceTree = "<group>"; };
+		5760A1C51D7FEA0300022F3E /* PPX_ZoomOut@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PPX_ZoomOut@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,10 +137,14 @@
 		575A66671D7EACF3006BC824 /* PPX_Player */ = {
 			isa = PBXGroup;
 			children = (
+				575A669F1D7ED05F006BC824 /* PPX_VideoPlayer */,
+				575A669B1D7EACFD006BC824 /* PPX_MovieViewController */,
 				575A666B1D7EACF3006BC824 /* AppDelegate.h */,
 				575A666C1D7EACF3006BC824 /* AppDelegate.m */,
 				575A666E1D7EACF3006BC824 /* ViewController.h */,
 				575A666F1D7EACF3006BC824 /* ViewController.m */,
+				5760A1B21D7FBA2300022F3E /* PlayerViewController.h */,
+				5760A1B31D7FBA2300022F3E /* PlayerViewController.m */,
 				575A66711D7EACF3006BC824 /* Main.storyboard */,
 				575A66741D7EACF3006BC824 /* Assets.xcassets */,
 				575A66761D7EACF3006BC824 /* LaunchScreen.storyboard */,
@@ -138,6 +178,54 @@
 				575A668F1D7EACF3006BC824 /* Info.plist */,
 			);
 			path = PPX_PlayerUITests;
+			sourceTree = "<group>";
+		};
+		575A669B1D7EACFD006BC824 /* PPX_MovieViewController */ = {
+			isa = PBXGroup;
+			children = (
+				575A669C1D7EACFD006BC824 /* PPX_MovieViewController.h */,
+				575A669D1D7EACFD006BC824 /* PPX_MovieViewController.m */,
+			);
+			path = PPX_MovieViewController;
+			sourceTree = "<group>";
+		};
+		575A669F1D7ED05F006BC824 /* PPX_VideoPlayer */ = {
+			isa = PBXGroup;
+			children = (
+				5760A1B91D7FEA0300022F3E /* PPX_Images */,
+				5760A1B51D7FE86600022F3E /* PPX_Button */,
+				575A66A01D7ED081006BC824 /* PPX_VideoPlayer.h */,
+				575A66A11D7ED081006BC824 /* PPX_VideoPlayer.m */,
+			);
+			path = PPX_VideoPlayer;
+			sourceTree = "<group>";
+		};
+		5760A1B51D7FE86600022F3E /* PPX_Button */ = {
+			isa = PBXGroup;
+			children = (
+				5760A1B61D7FE87A00022F3E /* PPX_Button.h */,
+				5760A1B71D7FE87A00022F3E /* PPX_Button.m */,
+			);
+			path = PPX_Button;
+			sourceTree = "<group>";
+		};
+		5760A1B91D7FEA0300022F3E /* PPX_Images */ = {
+			isa = PBXGroup;
+			children = (
+				5760A1BA1D7FEA0300022F3E /* PPX_Back@2x.png */,
+				5760A1BB1D7FEA0300022F3E /* PPX_Back@3x.png */,
+				5760A1BC1D7FEA0300022F3E /* PPX_Pause.png */,
+				5760A1BD1D7FEA0300022F3E /* PPX_Pause@2x.png */,
+				5760A1BE1D7FEA0300022F3E /* PPX_Play.png */,
+				5760A1BF1D7FEA0300022F3E /* PPX_Play@2x.png */,
+				5760A1C01D7FEA0300022F3E /* PPX_Slider@2x.png */,
+				5760A1C11D7FEA0300022F3E /* PPX_Slider@3x.png */,
+				5760A1C21D7FEA0300022F3E /* PPX_ZoomIn.png */,
+				5760A1C31D7FEA0300022F3E /* PPX_ZoomIn@2x.png */,
+				5760A1C41D7FEA0300022F3E /* PPX_ZoomOut.png */,
+				5760A1C51D7FEA0300022F3E /* PPX_ZoomOut@2x.png */,
+			);
+			path = PPX_Images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -243,9 +331,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5760A1D01D7FEA0300022F3E /* PPX_ZoomOut.png in Resources */,
+				5760A1CD1D7FEA0300022F3E /* PPX_Slider@3x.png in Resources */,
+				5760A1C61D7FEA0300022F3E /* PPX_Back@2x.png in Resources */,
+				5760A1CF1D7FEA0300022F3E /* PPX_ZoomIn@2x.png in Resources */,
+				5760A1C91D7FEA0300022F3E /* PPX_Pause@2x.png in Resources */,
 				575A66781D7EACF3006BC824 /* LaunchScreen.storyboard in Resources */,
 				575A66751D7EACF3006BC824 /* Assets.xcassets in Resources */,
+				5760A1CA1D7FEA0300022F3E /* PPX_Play.png in Resources */,
+				5760A1CB1D7FEA0300022F3E /* PPX_Play@2x.png in Resources */,
+				5760A1CC1D7FEA0300022F3E /* PPX_Slider@2x.png in Resources */,
+				5760A1CE1D7FEA0300022F3E /* PPX_ZoomIn.png in Resources */,
 				575A66731D7EACF3006BC824 /* Main.storyboard in Resources */,
+				5760A1C71D7FEA0300022F3E /* PPX_Back@3x.png in Resources */,
+				5760A1C81D7FEA0300022F3E /* PPX_Pause.png in Resources */,
+				5760A1D11D7FEA0300022F3E /* PPX_ZoomOut@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,9 +370,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				575A66A21D7ED081006BC824 /* PPX_VideoPlayer.m in Sources */,
 				575A66701D7EACF3006BC824 /* ViewController.m in Sources */,
 				575A666D1D7EACF3006BC824 /* AppDelegate.m in Sources */,
+				575A669E1D7EACFD006BC824 /* PPX_MovieViewController.m in Sources */,
 				575A666A1D7EACF3006BC824 /* main.m in Sources */,
+				5760A1B81D7FE87A00022F3E /* PPX_Button.m in Sources */,
+				5760A1B41D7FBA2300022F3E /* PlayerViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -498,6 +602,7 @@
 				575A66941D7EACF3006BC824 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		575A66951D7EACF3006BC824 /* Build configuration list for PBXNativeTarget "PPX_PlayerTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +611,7 @@
 				575A66971D7EACF3006BC824 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		575A66981D7EACF3006BC824 /* Build configuration list for PBXNativeTarget "PPX_PlayerUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +620,7 @@
 				575A669A1D7EACF3006BC824 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
