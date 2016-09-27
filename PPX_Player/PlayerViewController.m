@@ -30,9 +30,6 @@
     
     [self createUI];
     
-//    //开始播放
-//    [_player play];
-    
 }
 -(void)dealloc{
     //关闭播放器并销毁当前播放view

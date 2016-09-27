@@ -78,12 +78,15 @@
         _changeBar=NO;
         _lastShowBarTime=0;
         _dragSlider=NO;
-        
+        //刚开始加载
+        [self checkAndUpdateStatus:PPX_VideoPlayerBuffer];
+
         //添加手势
         [self addGestures];
         
         [self createUI];
         
+
         //播放
         [_player play];
     }
